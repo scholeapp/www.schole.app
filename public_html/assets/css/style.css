@@ -530,7 +530,7 @@ html {
 }
 
 .fv {
-  background-image: url(../img/fv-bg.webp);
+  background-image: url(../img/fv-bg-new.webp);
   background-position: right;
   background-size: 829px;
   background-repeat: no-repeat;
@@ -3007,7 +3007,7 @@ html {
   }
 
   .fv {
-    background-image: url(../img/fv-bg-sp.webp);
+    background-image: url(../img/fv-bg-sp-new.webp);
     background-position: right;
     background-size: 249px 607px;
     height: 607px;
