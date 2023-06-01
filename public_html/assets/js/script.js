@@ -13,11 +13,13 @@ $(function () {
   $(".drawer__link").click(function () {
     $(".js-hamburger").removeClass("is-active");
     $(".js-drawer").removeClass("is-active");
+    $("body").removeClass("is-fixed");
   });
 
   $(".drawer__logo").click(function () {
     $(".js-hamburger").removeClass("is-active");
     $(".js-drawer").removeClass("is-active");
+    $("body").removeClass("is-fixed");
   });
 });
 

@@ -621,7 +621,8 @@ html {
   width: 100%;
   padding-top: 79px;
   background-color: #fafafa;
-  overflow-x: hidden;
+  overflow: hidden;
+  scrollbar-width: none;
 }
 
 .introduction__title-small {
@@ -804,7 +805,7 @@ html {
   padding-bottom: 80px;
   background-color: #267c82;
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 .benefit__img {
@@ -1060,7 +1061,6 @@ html {
   background-color: #fafafa;
   padding-top: 121px;
   padding-bottom: 92px;
-  overflow: hidden;
 }
 
 .curriculum__description {

@@ -144,7 +144,8 @@ html {
   width: 100%;
   padding-top: 79px;
   background-color: #fafafa;
-  overflow-x: hidden;
+  overflow: hidden;
+  scrollbar-width: none;
 }
 
 .introduction__title-small {
@@ -361,7 +362,7 @@ html {
   padding-bottom: 80px;
   background-color: $green;
   position: relative;
-  overflow-x: hidden;
+  overflow: hidden;
   @media screen and (max-width: $tab) {
     padding-top: 56px;
     padding-bottom: 56px;
@@ -730,7 +731,7 @@ html {
   background-color: #fafafa;
   padding-top: 121px;
   padding-bottom: 92px;
-  overflow: hidden;
+  // overflow: hidden;
   @media screen and (max-width: $tab) {
     padding-top: 54px;
     padding-bottom: 54px;
