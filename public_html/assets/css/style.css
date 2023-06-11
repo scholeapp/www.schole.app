@@ -901,6 +901,11 @@ html {
   margin-top: 16px;
 }
 
+.benefit__description span {
+  font-weight: 700;
+  color: #e06e89;
+}
+
 .feature__section {
   width: 100%;
   padding-top: 80px;
