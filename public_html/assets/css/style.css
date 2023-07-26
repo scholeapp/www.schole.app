@@ -1657,7 +1657,7 @@ html {
 }
 
 .price__box-text-big:after {
-  content: "(税抜)";
+  content: "(税込)";
   color: #267c82;
   font-size: 16px;
   font-weight: 700;

@@ -1545,7 +1545,7 @@ html {
   }
 
   &:after {
-    content: "(税抜)";
+    content: "(税込)";
     color: $green;
     font-size: 16px;
     font-weight: $bold;
