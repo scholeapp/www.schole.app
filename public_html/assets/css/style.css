@@ -174,6 +174,10 @@ select::-ms-expand {
   border-radius: 5px;
 }
 
+.button-contact-line {
+  background-color: #37b900;
+}
+
 .button-more {
   display: block;
   padding-top: 15px;
@@ -899,6 +903,11 @@ html {
 
 .benefit__description {
   margin-top: 16px;
+}
+
+.benefit__description span {
+  font-weight: 700;
+  color: #e06e89;
 }
 
 .feature__section {
@@ -1648,7 +1657,7 @@ html {
 }
 
 .price__box-text-big:after {
-  content: "(税抜)";
+  content: "(税込)";
   color: #267c82;
   font-size: 16px;
   font-weight: 700;
