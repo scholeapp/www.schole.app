@@ -111,11 +111,6 @@ select {
 
 /* Blur images when they have no alt attribute */
 
-img:not([alt]) {
-  -webkit-filter: blur(10px);
-          filter: blur(10px);
-}
-
 /* フォームリセット */
 
 input,
